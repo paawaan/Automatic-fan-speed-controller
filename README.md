@@ -1,4 +1,3 @@
-
 # Automatic fan speed controller
 
 The main idea of this project has been taken from the smart home 
@@ -8,7 +7,6 @@ surrounding increases the fan speed is increased and when temperature
 decreases, the fan speed is decreased. Basically, the change in 
 temperature read from the sensor is directly proportional to change 
 in speed of fan. 
-
 
 ## Components Required
 
@@ -28,11 +26,11 @@ in speed of fan.
 
 ## Language used
 
-![Logo](https://i.redd.it/31b2ii8hchi31.jpg)
+![Logo](https://besthqwallpapers.com/Uploads/23-1-2020/119595/thumb2-c---logo-white-silk-texture-c---emblem-programming-language-c--.jpg)
 
 ## Authors
 
 - [M G PAWAN KUMAR BABU](https://github.com/paawaan)
-- [GOWTHAM S]()
+- [GOWTHAM S](https://github.com/gowtham2309)
 - [KAMALRAJ D]()
 - [ADITYA SHARMA](https://github.com/adityash721)
